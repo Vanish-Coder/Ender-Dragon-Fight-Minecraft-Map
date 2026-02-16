@@ -1,7 +1,7 @@
 # Ender-Dragon-Fight-Minecraft-Map
 ## An ender dragon challenge map where you can practice the final step of beating the game in a super convenient way. NOTE: THIS IS ONLY FOR MINECRAFT JAVA.
 ## Setup:
-- Install the latest release in the release tab.
+- Install the latest release in the Releases tab.
 - Unzip the zip file you get.
 - You should get a folder, which you put in your Minecraft Saves folder. (File paths listed below)
   - On Mac: ~/Library/Application Support/minecraft/saves
