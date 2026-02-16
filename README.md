@@ -8,7 +8,7 @@
   - On Windows: %APPDATA%\.minecraft\saves
   - On Linux: ~/.minecraft/saves
 - Launch Minecraft 1.21.11 (downgrading and upgrading is possible, but could result in corruption).
-- You should see a world titled "Ender Dragon Fight Challenge". Load it up and have fun!
+- You should see a world titled "Ender Dragon Fight Challenge". Load it up and have fun! Side Note: Keep Inventory is on by default for optimal function.
  
   
 
