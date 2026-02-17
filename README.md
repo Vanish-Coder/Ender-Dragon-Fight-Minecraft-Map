@@ -1,3 +1,4 @@
+# When you join the world, if your inventory has stuff in it, empty it out, for the sake of simplicity. This is not necessary though.
 # Ender-Dragon-Fight-Minecraft-Map
 ## An ender dragon challenge map where you can practice the final step of beating the game in a super convenient way. NOTE: THIS IS ONLY FOR MINECRAFT JAVA.
 ## Setup:
